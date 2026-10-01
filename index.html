@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AutoFillFace - 人脸验证的本地密码填充</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    background: #141311;
+    color: #e8e0d4;
+    font-family: -apple-system, "Microsoft YaHei", "PingFang SC", sans-serif;
+    line-height: 1.7;
+    font-size: 16px;
+  }
+  .wrap { max-width: 880px; margin: 0 auto; padding: 60px 24px; }
+
+  /* hero */
+  .hero { text-align: center; padding: 40px 0 60px; }
+  .hero svg { margin-bottom: 24px; }
+  .hero h1 {
+    font-size: 42px; font-weight: 600; letter-spacing: -1px;
+    color: #f5ede0; margin-bottom: 16px;
+  }
+  .hero h1 span { color: #c97b3c; }
+  .hero p.sub {
+    font-size: 18px; color: #a89e8f; max-width: 560px; margin: 0 auto;
+  }
+
+  /* section */
+  section { margin: 70px 0; }
+  h2 {
+    font-size: 24px; font-weight: 600; color: #f5ede0;
+    margin-bottom: 28px; padding-left: 14px;
+    border-left: 3px solid #c97b3c;
+  }
+
+  /* steps */
+  .steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; }
+  .step {
+    background: #1f1d1a; border-radius: 10px; padding: 22px 18px;
+  }
+  .step .num {
+    display: inline-block; width: 26px; height: 26px; line-height: 26px;
+    text-align: center; border-radius: 50%; background: #c97b3c; color: #141311;
+    font-size: 13px; font-weight: 700; margin-bottom: 12px;
+  }
+  .step h3 { font-size: 15px; margin-bottom: 6px; color: #f0e8da; }
+  .step p { font-size: 13px; color: #8a8074; line-height: 1.6; }
+
+  /* screenshot placeholder */
+  .shot {
+    background: #1f1d1a; border-radius: 12px; padding: 20px; margin: 20px 0;
+  }
+  .shot-box {
+    background: #100f0e; border: 1px dashed #3a352e; border-radius: 8px;
+    aspect-ratio: 16/9; display: flex; align-items: center; justify-content: center;
+    color: #5a5248; font-size: 14px;
+  }
+  .shot-img {
+    width: 100%; border-radius: 8px; display: block;
+    border: 1px solid #2a2724;
+  }
+  .shot + .shot { margin-top: 16px; }
+  .shot-label { font-size: 13px; color: #8a8074; margin-bottom: 10px; }
+
+  /* features */
+  .feat { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .feat-item {
+    background: #1f1d1a; border-radius: 10px; padding: 20px;
+    display: flex; gap: 14px; align-items: flex-start;
+  }
+  .feat-item svg { flex-shrink: 0; margin-top: 3px; }
+  .feat-item h4 { font-size: 15px; margin-bottom: 4px; color: #f0e8da; }
+  .feat-item p { font-size: 13px; color: #8a8074; }
+
+  /* privacy */
+  .privacy {
+    background: #1f1d1a; border-left: 3px solid #c97b3c;
+    padding: 22px 26px; border-radius: 0 10px 10px 0;
+  }
+  .privacy p { color: #a89e8f; font-size: 14px; }
+  .privacy strong { color: #e8e0d4; }
+
+  footer {
+    text-align: center; margin-top: 80px; padding-top: 30px;
+    border-top: 1px solid #2a2724; color: #5a5248; font-size: 13px;
+  }
+  @media (max-width: 640px) {
+    .steps { grid-template-columns: repeat(2, 1fr); }
+    .feat { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 30px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <div class="hero">
+    <!-- 手绘图标：摄像头 + 钥匙 -->
+    <svg width="72" height="72" viewBox="0 0 72 72" fill="none">
+      <rect x="10" y="18" width="44" height="32" rx="6" stroke="#c97b3c" stroke-width="2.5"/>
+      <circle cx="32" cy="34" r="9" stroke="#c97b3c" stroke-width="2.5"/>
+      <circle cx="32" cy="34" r="3.5" fill="#c97b3c"/>
+      <path d="M54 26 L64 20 L64 48 L54 42" stroke="#c97b3c" stroke-width="2.5" stroke-linejoin="round"/>
+      <circle cx="58" cy="56" r="6" stroke="#e8e0d4" stroke-width="2"/>
+      <path d="M62 60 L68 66" stroke="#e8e0d4" stroke-width="2" stroke-linecap="round"/>
+    </svg>
+    <h1>按一下热键，<span>脸对上了就填好</span></h1>
+    <p class="sub">AutoFillFace 是一个跑在你自己电脑上的小工具。打开登录页，按 Ctrl+Alt+M，它认出这是哪个页面、确认是你本人，然后替你把账号密码填好。</p>
+  </div>
+
+  <section>
+    <h2>它怎么工作</h2>
+    <div class="steps">
+      <div class="step">
+        <span class="num">1</span>
+        <h3>识别页面</h3>
+        <p>截屏当前屏幕，和你之前给每个登录页存的截图做本地特征比对，认出这是哪个网站。</p>
+      </div>
+      <div class="step">
+        <span class="num">2</span>
+        <h3>看一眼是不是你</h3>
+        <p>打开摄像头采几帧，和你注册时存的人脸模板比对，确认本人。</p>
+      </div>
+      <div class="step">
+        <span class="num">3</span>
+        <h3>点进去填</h3>
+        <p>按你预先标好的坐标点用户名框、填用户名，再点密码框、填密码。</p>
+      </div>
+      <div class="step">
+        <span class="num">4</span>
+        <h3>该按回车按回车</h3>
+        <p>需要额外点击或按键就跑你写的宏，不用多管。</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>长这样</h2>
+    <div class="shot">
+      <div class="shot-label">主界面 - 密码库列表</div>
+      <img class="shot-img" src="https://aka.doubaocdn.com/s/ccsJ42z86r" alt="主界面">
+    </div>
+    <div class="shot">
+      <div class="shot-label">新增服务 - 点选坐标向导</div>
+      <img class="shot-img" src="https://aka.doubaocdn.com/s/UdrCRGuh74" alt="新增向导">
+    </div>
+    <div class="shot">
+      <div class="shot-label">人脸识别动画 - 屏幕顶部</div>
+      <img class="shot-img" src="https://aka.doubaocdn.com/s/mmauMABDly" alt="动画">
+    </div>
+  </section>
+
+  <section>
+    <h2>几个特点</h2>
+    <div class="feat">
+      <div class="feat-item">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+          <rect x="4" y="10" width="20" height="14" rx="2" stroke="#c97b3c" stroke-width="2"/>
+          <path d="M8 10 V7 a6 6 0 0 1 12 0 v3" stroke="#c97b3c" stroke-width="2"/>
+        </svg>
+        <div>
+          <h4>密码不离开这台电脑</h4>
+          <p>用 Windows 自带的 DPAPI 加密，绑当前用户。拷走数据文件到别的机器也解不开。</p>
+        </div>
+      </div>
+      <div class="feat-item">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+          <circle cx="14" cy="14" r="10" stroke="#c97b3c" stroke-width="2"/>
+          <path d="M9 14 l4 4 l6 -8" stroke="#c97b3c" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <div>
+          <h4>不联网识别页面</h4>
+          <p>本地 ORB 特征匹配，不用大模型、不用调 API。登录页长什么样你自己截图告诉它。</p>
+        </div>
+      </div>
+      <div class="feat-item">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+          <rect x="4" y="6" width="20" height="16" rx="2" stroke="#c97b3c" stroke-width="2"/>
+          <circle cx="14" cy="14" r="4" stroke="#c97b3c" stroke-width="2"/>
+        </svg>
+        <div>
+          <h4>多个截图适配一个网站</h4>
+          <p>登录页会变样式？给同一个服务截好几张图，任意一张对上就行。</p>
+        </div>
+      </div>
+      <div class="feat-item">
+        <svg width="28" height="28" viewBox="0 0 28 28" fill="none">
+          <path d="M5 20 Q14 8 23 20" stroke="#c97b3c" stroke-width="2" stroke-linecap="round"/>
+          <circle cx="14" cy="16" r="2.5" fill="#c97b3c"/>
+        </svg>
+        <div>
+          <h4>动画不花哨但跟手</h4>
+          <p>屏幕顶部一个小黑点自己拉成圆角方块，对脸了就播放扫描动画、打个勾。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="privacy">
+      <p><strong>关于隐私：</strong>摄像头画面只在你按热键的那一两秒内被读取和比对，不录像、不上传。人脸特征模板存在本机加密文件里。页面识别用的也是本地截图。整个过程不需要网络连接。</p>
+    </div>
+  </section>
+
+  <footer>
+    AutoFillFace · 本地运行 · Windows 10/11
+  </footer>
+
+</div>
+</body>
+</html>

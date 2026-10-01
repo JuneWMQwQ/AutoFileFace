@@ -1,0 +1,9 @@
+# 依赖清单（全部走清华源）
+# pip install -i https://pypi.tuna.tsinghua.edu.cn/simple -r requirements.txt
+opencv-python==4.11.0.86
+numpy>=1.26.0
+Pillow>=10.4.0
+mss>=9.0.1
+pynput>=1.7.7
+requests>=2.32.0
+pyinstaller>=6.10.0

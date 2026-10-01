@@ -1,0 +1,3206 @@
+('C:\\Users\\zhaow\\Documents\\passwd\\build\\AutoFillFace_dir\\PYZ-00.pyz',
+ [('PIL',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.AvifImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\AvifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageMath',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageMath.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.QoiImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\QoiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL._typing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\_typing.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\__future__.py',
+   'PYMODULE'),
+  ('_aix_support',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_aix_support.py',
+   'PYMODULE'),
+  ('_colorize',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_colorize.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('_compression',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_compression.py',
+   'PYMODULE'),
+  ('_distutils_hack',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\_distutils_hack\\__init__.py',
+   'PYMODULE'),
+  ('_distutils_hack.override',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\_distutils_hack\\override.py',
+   'PYMODULE'),
+  ('_opcode_metadata',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_opcode_metadata.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_osx_support.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_py_abc.py',
+   'PYMODULE'),
+  ('_pydatetime',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pydatetime.py',
+   'PYMODULE'),
+  ('_pydecimal',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pydecimal.py',
+   'PYMODULE'),
+  ('_pyrepl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\__init__.py',
+   'PYMODULE'),
+  ('_pyrepl._minimal_curses',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\_minimal_curses.py',
+   'PYMODULE'),
+  ('_pyrepl._threading_handler',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\_threading_handler.py',
+   'PYMODULE'),
+  ('_pyrepl.base_eventqueue',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\base_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.commands',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\commands.py',
+   'PYMODULE'),
+  ('_pyrepl.completing_reader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\completing_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\console.py',
+   'PYMODULE'),
+  ('_pyrepl.curses',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\curses.py',
+   'PYMODULE'),
+  ('_pyrepl.fancy_termios',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\fancy_termios.py',
+   'PYMODULE'),
+  ('_pyrepl.historical_reader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\historical_reader.py',
+   'PYMODULE'),
+  ('_pyrepl.input',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\input.py',
+   'PYMODULE'),
+  ('_pyrepl.keymap',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\keymap.py',
+   'PYMODULE'),
+  ('_pyrepl.main',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\main.py',
+   'PYMODULE'),
+  ('_pyrepl.pager',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\pager.py',
+   'PYMODULE'),
+  ('_pyrepl.reader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\reader.py',
+   'PYMODULE'),
+  ('_pyrepl.readline',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\readline.py',
+   'PYMODULE'),
+  ('_pyrepl.simple_interact',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\simple_interact.py',
+   'PYMODULE'),
+  ('_pyrepl.trace',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\trace.py',
+   'PYMODULE'),
+  ('_pyrepl.types',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\types.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\unix_console.py',
+   'PYMODULE'),
+  ('_pyrepl.unix_eventqueue',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\unix_eventqueue.py',
+   'PYMODULE'),
+  ('_pyrepl.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\utils.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\windows_console.py',
+   'PYMODULE'),
+  ('_pyrepl.windows_eventqueue',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_pyrepl\\windows_eventqueue.py',
+   'PYMODULE'),
+  ('_sitebuiltins',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_sitebuiltins.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_strptime.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\_threading_local.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\argparse.py',
+   'PYMODULE'),
+  ('ast',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ast.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.taskgroups',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\taskgroups.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.timeouts',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\timeouts.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('autofill',
+   'C:\\Users\\zhaow\\Documents\\passwd\\app\\autofill.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\base64.py',
+   'PYMODULE'),
+  ('bdb',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\bdb.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\bisect.py',
+   'PYMODULE'),
+  ('bz2',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\bz2.py',
+   'PYMODULE'),
+  ('calendar',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\calendar.py',
+   'PYMODULE'),
+  ('certifi',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\certifi\\__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\certifi\\core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\api.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\charset_normalizer\\version.py',
+   'PYMODULE'),
+  ('cmd',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\cmd.py',
+   'PYMODULE'),
+  ('code',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\codeop.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\colorsys.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('config', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\config.py', 'PYMODULE'),
+  ('configparser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\configparser.py',
+   'PYMODULE'),
+  ('contextlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\contextlib.py',
+   'PYMODULE'),
+  ('contextvars',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\contextvars.py',
+   'PYMODULE'),
+  ('copy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\copy.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\csv.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('curses',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\curses\\__init__.py',
+   'PYMODULE'),
+  ('curses.has_key',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\curses\\has_key.py',
+   'PYMODULE'),
+  ('dataclasses',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\dataclasses.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\datetime.py',
+   'PYMODULE'),
+  ('decimal',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\decimal.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\difflib.py',
+   'PYMODULE'),
+  ('dis',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\dis.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\doctest.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email.charset',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.errors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('email.generator',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email.header',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.message',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.policy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\email\\utils.py',
+   'PYMODULE'),
+  ('face_engine',
+   'C:\\Users\\zhaow\\Documents\\passwd\\app\\face_engine.py',
+   'PYMODULE'),
+  ('fileinput',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\fileinput.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\fnmatch.py',
+   'PYMODULE'),
+  ('fractions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\fractions.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ftplib.py',
+   'PYMODULE'),
+  ('getopt',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\getopt.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\getpass.py',
+   'PYMODULE'),
+  ('gettext',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\gettext.py',
+   'PYMODULE'),
+  ('glob',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\glob.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\gzip.py',
+   'PYMODULE'),
+  ('hashlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\hashlib.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\hmac.py',
+   'PYMODULE'),
+  ('hotkey', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\hotkey.py', 'PYMODULE'),
+  ('html',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\html\\entities.py',
+   'PYMODULE'),
+  ('http',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('http.client',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\http\\client.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('http.cookies',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\http\\cookies.py',
+   'PYMODULE'),
+  ('http.server',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\http\\server.py',
+   'PYMODULE'),
+  ('idna',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\idna\\uts46data.py',
+   'PYMODULE'),
+  ('importlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib.resources',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\_common.py',
+   'PYMODULE'),
+  ('importlib.resources._functional',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\_functional.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\resources\\readers.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('inspect',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\inspect.py',
+   'PYMODULE'),
+  ('ipaddress',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ipaddress.py',
+   'PYMODULE'),
+  ('json',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\json\\__init__.py',
+   'PYMODULE'),
+  ('json.decoder',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\json\\decoder.py',
+   'PYMODULE'),
+  ('json.encoder',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\json\\encoder.py',
+   'PYMODULE'),
+  ('json.scanner',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\json\\scanner.py',
+   'PYMODULE'),
+  ('logging',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('logging.handlers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\logging\\handlers.py',
+   'PYMODULE'),
+  ('lzma',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\lzma.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\mimetypes.py',
+   'PYMODULE'),
+  ('mss',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\__init__.py',
+   'PYMODULE'),
+  ('mss.base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\base.py',
+   'PYMODULE'),
+  ('mss.darwin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\darwin.py',
+   'PYMODULE'),
+  ('mss.exception',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\exception.py',
+   'PYMODULE'),
+  ('mss.factory',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\factory.py',
+   'PYMODULE'),
+  ('mss.linux',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\__init__.py',
+   'PYMODULE'),
+  ('mss.linux.base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\base.py',
+   'PYMODULE'),
+  ('mss.linux.xcb',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xcb.py',
+   'PYMODULE'),
+  ('mss.linux.xcbgen',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xcbgen.py',
+   'PYMODULE'),
+  ('mss.linux.xcbhelpers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xcbhelpers.py',
+   'PYMODULE'),
+  ('mss.linux.xgetimage',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xgetimage.py',
+   'PYMODULE'),
+  ('mss.linux.xlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xlib.py',
+   'PYMODULE'),
+  ('mss.linux.xshmgetimage',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\linux\\xshmgetimage.py',
+   'PYMODULE'),
+  ('mss.models',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\models.py',
+   'PYMODULE'),
+  ('mss.screenshot',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\screenshot.py',
+   'PYMODULE'),
+  ('mss.tools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\tools.py',
+   'PYMODULE'),
+  ('mss.windows',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\windows\\__init__.py',
+   'PYMODULE'),
+  ('mss.windows.gdi',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\mss\\windows\\gdi.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\netrc.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\nturl2path.py',
+   'PYMODULE'),
+  ('numbers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\numbers.py',
+   'PYMODULE'),
+  ('numpy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\__init__.py',
+   'PYMODULE'),
+  ('numpy.__config__',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\__config__.py',
+   'PYMODULE'),
+  ('numpy._array_api_info',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_array_api_info.py',
+   'PYMODULE'),
+  ('numpy._core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\__init__.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_add_newdocs.py',
+   'PYMODULE'),
+  ('numpy._core._add_newdocs_scalars',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_add_newdocs_scalars.py',
+   'PYMODULE'),
+  ('numpy._core._asarray',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_asarray.py',
+   'PYMODULE'),
+  ('numpy._core._dtype',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_dtype.py',
+   'PYMODULE'),
+  ('numpy._core._dtype_ctypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_dtype_ctypes.py',
+   'PYMODULE'),
+  ('numpy._core._exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_exceptions.py',
+   'PYMODULE'),
+  ('numpy._core._internal',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_internal.py',
+   'PYMODULE'),
+  ('numpy._core._methods',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_methods.py',
+   'PYMODULE'),
+  ('numpy._core._string_helpers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_string_helpers.py',
+   'PYMODULE'),
+  ('numpy._core._type_aliases',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_type_aliases.py',
+   'PYMODULE'),
+  ('numpy._core._ufunc_config',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\_ufunc_config.py',
+   'PYMODULE'),
+  ('numpy._core.arrayprint',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\arrayprint.py',
+   'PYMODULE'),
+  ('numpy._core.defchararray',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\defchararray.py',
+   'PYMODULE'),
+  ('numpy._core.einsumfunc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\einsumfunc.py',
+   'PYMODULE'),
+  ('numpy._core.fromnumeric',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\fromnumeric.py',
+   'PYMODULE'),
+  ('numpy._core.function_base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\function_base.py',
+   'PYMODULE'),
+  ('numpy._core.getlimits',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\getlimits.py',
+   'PYMODULE'),
+  ('numpy._core.memmap',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\memmap.py',
+   'PYMODULE'),
+  ('numpy._core.multiarray',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy._core.numeric',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\numeric.py',
+   'PYMODULE'),
+  ('numpy._core.numerictypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\numerictypes.py',
+   'PYMODULE'),
+  ('numpy._core.overrides',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\overrides.py',
+   'PYMODULE'),
+  ('numpy._core.printoptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\printoptions.py',
+   'PYMODULE'),
+  ('numpy._core.records',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\records.py',
+   'PYMODULE'),
+  ('numpy._core.shape_base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\shape_base.py',
+   'PYMODULE'),
+  ('numpy._core.strings',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\strings.py',
+   'PYMODULE'),
+  ('numpy._core.umath',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_core\\umath.py',
+   'PYMODULE'),
+  ('numpy._distributor_init',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_distributor_init.py',
+   'PYMODULE'),
+  ('numpy._expired_attrs_2_0',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_expired_attrs_2_0.py',
+   'PYMODULE'),
+  ('numpy._globals',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_globals.py',
+   'PYMODULE'),
+  ('numpy._pytesttester',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_pytesttester.py',
+   'PYMODULE'),
+  ('numpy._typing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy._typing._add_docstring',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_add_docstring.py',
+   'PYMODULE'),
+  ('numpy._typing._array_like',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_array_like.py',
+   'PYMODULE'),
+  ('numpy._typing._char_codes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_char_codes.py',
+   'PYMODULE'),
+  ('numpy._typing._dtype_like',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_nbit.py',
+   'PYMODULE'),
+  ('numpy._typing._nbit_base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_nbit_base.py',
+   'PYMODULE'),
+  ('numpy._typing._nested_sequence',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py',
+   'PYMODULE'),
+  ('numpy._typing._scalars',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_scalars.py',
+   'PYMODULE'),
+  ('numpy._typing._shape',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_shape.py',
+   'PYMODULE'),
+  ('numpy._typing._ufunc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_typing\\_ufunc.py',
+   'PYMODULE'),
+  ('numpy._utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_utils\\__init__.py',
+   'PYMODULE'),
+  ('numpy._utils._conversions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_utils\\_conversions.py',
+   'PYMODULE'),
+  ('numpy._utils._inspect',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\_utils\\_inspect.py',
+   'PYMODULE'),
+  ('numpy.char',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\char\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\core\\__init__.py',
+   'PYMODULE'),
+  ('numpy.core._utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\core\\_utils.py',
+   'PYMODULE'),
+  ('numpy.core.multiarray',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\core\\multiarray.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ctypeslib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ctypeslib._ctypeslib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ctypeslib\\_ctypeslib.py',
+   'PYMODULE'),
+  ('numpy.dtypes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\dtypes.py',
+   'PYMODULE'),
+  ('numpy.exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\exceptions.py',
+   'PYMODULE'),
+  ('numpy.f2py',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py.__version__',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\__version__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\_backends\\__init__.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._backend',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\_backends\\_backend.py',
+   'PYMODULE'),
+  ('numpy.f2py._backends._meson',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\_backends\\_meson.py',
+   'PYMODULE'),
+  ('numpy.f2py._isocbind',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\_isocbind.py',
+   'PYMODULE'),
+  ('numpy.f2py.auxfuncs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.capi_maps',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\capi_maps.py',
+   'PYMODULE'),
+  ('numpy.f2py.cb_rules',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\cb_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.cfuncs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\cfuncs.py',
+   'PYMODULE'),
+  ('numpy.f2py.common_rules',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\common_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.crackfortran',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\crackfortran.py',
+   'PYMODULE'),
+  ('numpy.f2py.diagnose',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\diagnose.py',
+   'PYMODULE'),
+  ('numpy.f2py.f2py2e',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\f2py2e.py',
+   'PYMODULE'),
+  ('numpy.f2py.f90mod_rules',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.func2subr',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\func2subr.py',
+   'PYMODULE'),
+  ('numpy.f2py.rules',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\rules.py',
+   'PYMODULE'),
+  ('numpy.f2py.symbolic',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\symbolic.py',
+   'PYMODULE'),
+  ('numpy.f2py.use_rules',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\f2py\\use_rules.py',
+   'PYMODULE'),
+  ('numpy.fft',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\fft\\__init__.py',
+   'PYMODULE'),
+  ('numpy.fft._helper',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\fft\\_helper.py',
+   'PYMODULE'),
+  ('numpy.fft._pocketfft',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\fft\\_pocketfft.py',
+   'PYMODULE'),
+  ('numpy.lib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.lib._array_utils_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_array_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraypad_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_arraypad_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arraysetops_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_arraysetops_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._arrayterator_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_arrayterator_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._datasource',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_datasource.py',
+   'PYMODULE'),
+  ('numpy.lib._format_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_format_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._function_base_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_function_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._histograms_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_histograms_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._index_tricks_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_index_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._iotools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_iotools.py',
+   'PYMODULE'),
+  ('numpy.lib._nanfunctions_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_nanfunctions_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._npyio_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_npyio_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._polynomial_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_polynomial_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._scimath_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_scimath_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._shape_base_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_shape_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._stride_tricks_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_stride_tricks_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._twodim_base_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_twodim_base_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._type_check_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_type_check_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._ufunclike_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_ufunclike_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._utils_impl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_utils_impl.py',
+   'PYMODULE'),
+  ('numpy.lib._version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\_version.py',
+   'PYMODULE'),
+  ('numpy.lib.array_utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\array_utils.py',
+   'PYMODULE'),
+  ('numpy.lib.format',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\format.py',
+   'PYMODULE'),
+  ('numpy.lib.introspect',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\introspect.py',
+   'PYMODULE'),
+  ('numpy.lib.mixins',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\mixins.py',
+   'PYMODULE'),
+  ('numpy.lib.npyio',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\npyio.py',
+   'PYMODULE'),
+  ('numpy.lib.recfunctions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\recfunctions.py',
+   'PYMODULE'),
+  ('numpy.lib.scimath',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\scimath.py',
+   'PYMODULE'),
+  ('numpy.lib.stride_tricks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\lib\\stride_tricks.py',
+   'PYMODULE'),
+  ('numpy.linalg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\linalg\\__init__.py',
+   'PYMODULE'),
+  ('numpy.linalg._linalg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\linalg\\_linalg.py',
+   'PYMODULE'),
+  ('numpy.ma',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ma\\__init__.py',
+   'PYMODULE'),
+  ('numpy.ma.core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ma\\core.py',
+   'PYMODULE'),
+  ('numpy.ma.extras',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ma\\extras.py',
+   'PYMODULE'),
+  ('numpy.ma.mrecords',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\ma\\mrecords.py',
+   'PYMODULE'),
+  ('numpy.matlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\matlib.py',
+   'PYMODULE'),
+  ('numpy.matrixlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\matrixlib\\__init__.py',
+   'PYMODULE'),
+  ('numpy.matrixlib.defmatrix',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\matrixlib\\defmatrix.py',
+   'PYMODULE'),
+  ('numpy.polynomial',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\__init__.py',
+   'PYMODULE'),
+  ('numpy.polynomial._polybase',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\_polybase.py',
+   'PYMODULE'),
+  ('numpy.polynomial.chebyshev',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\chebyshev.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\hermite.py',
+   'PYMODULE'),
+  ('numpy.polynomial.hermite_e',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\hermite_e.py',
+   'PYMODULE'),
+  ('numpy.polynomial.laguerre',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\laguerre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.legendre',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\legendre.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polynomial',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\polynomial.py',
+   'PYMODULE'),
+  ('numpy.polynomial.polyutils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\polynomial\\polyutils.py',
+   'PYMODULE'),
+  ('numpy.random',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\random\\__init__.py',
+   'PYMODULE'),
+  ('numpy.random._pickle',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\random\\_pickle.py',
+   'PYMODULE'),
+  ('numpy.rec',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\rec\\__init__.py',
+   'PYMODULE'),
+  ('numpy.strings',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\strings\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\testing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\testing\\_private\\__init__.py',
+   'PYMODULE'),
+  ('numpy.testing._private.extbuild',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\testing\\_private\\extbuild.py',
+   'PYMODULE'),
+  ('numpy.testing._private.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\testing\\_private\\utils.py',
+   'PYMODULE'),
+  ('numpy.testing.overrides',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\testing\\overrides.py',
+   'PYMODULE'),
+  ('numpy.typing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\typing\\__init__.py',
+   'PYMODULE'),
+  ('numpy.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\numpy\\version.py',
+   'PYMODULE'),
+  ('opcode',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\opcode.py',
+   'PYMODULE'),
+  ('packaging',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('packaging._ranges',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_ranges.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.licenses',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\licenses\\__init__.py',
+   'PYMODULE'),
+  ('packaging.licenses._spdx',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\licenses\\_spdx.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\markers.py',
+   'PYMODULE'),
+  ('packaging.ranges',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\ranges.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\packaging\\version.py',
+   'PYMODULE'),
+  ('pathlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pathlib\\__init__.py',
+   'PYMODULE'),
+  ('pathlib._abc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pathlib\\_abc.py',
+   'PYMODULE'),
+  ('pathlib._local',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pathlib\\_local.py',
+   'PYMODULE'),
+  ('pdb',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pdb.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pickle.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pkgutil.py',
+   'PYMODULE'),
+  ('platform',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\platform.py',
+   'PYMODULE'),
+  ('pprint',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pprint.py',
+   'PYMODULE'),
+  ('py_compile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\py_compile.py',
+   'PYMODULE'),
+  ('pydoc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pydoc.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('pydoc_data.module_docs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pydoc_data\\module_docs.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pynput',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\__init__.py',
+   'PYMODULE'),
+  ('pynput._info',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_info.py',
+   'PYMODULE'),
+  ('pynput._util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\__init__.py',
+   'PYMODULE'),
+  ('pynput._util.darwin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\darwin.py',
+   'PYMODULE'),
+  ('pynput._util.darwin_vks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\darwin_vks.py',
+   'PYMODULE'),
+  ('pynput._util.uinput',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\uinput.py',
+   'PYMODULE'),
+  ('pynput._util.win32',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\win32.py',
+   'PYMODULE'),
+  ('pynput._util.win32_vks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\win32_vks.py',
+   'PYMODULE'),
+  ('pynput._util.xorg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\xorg.py',
+   'PYMODULE'),
+  ('pynput._util.xorg_keysyms',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\_util\\xorg_keysyms.py',
+   'PYMODULE'),
+  ('pynput.keyboard',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\__init__.py',
+   'PYMODULE'),
+  ('pynput.keyboard._base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_base.py',
+   'PYMODULE'),
+  ('pynput.keyboard._darwin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.keyboard._dummy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.keyboard._uinput',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_uinput.py',
+   'PYMODULE'),
+  ('pynput.keyboard._win32',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_win32.py',
+   'PYMODULE'),
+  ('pynput.keyboard._xorg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\keyboard\\_xorg.py',
+   'PYMODULE'),
+  ('pynput.mouse',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\__init__.py',
+   'PYMODULE'),
+  ('pynput.mouse._base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\_base.py',
+   'PYMODULE'),
+  ('pynput.mouse._darwin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\_darwin.py',
+   'PYMODULE'),
+  ('pynput.mouse._dummy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\_dummy.py',
+   'PYMODULE'),
+  ('pynput.mouse._win32',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\_win32.py',
+   'PYMODULE'),
+  ('pynput.mouse._xorg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pynput\\mouse\\_xorg.py',
+   'PYMODULE'),
+  ('pyreadline3',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.api',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\api.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.get_clipboard_text_and_convert',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\get_clipboard_text_and_convert.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.ironpython_clipboard',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\ironpython_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.no_clipboard',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\no_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.clipboard.win32_clipboard',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\clipboard\\win32_clipboard.py',
+   'PYMODULE'),
+  ('pyreadline3.console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\console\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ansi',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\console\\ansi.py',
+   'PYMODULE'),
+  ('pyreadline3.console.console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\console\\console.py',
+   'PYMODULE'),
+  ('pyreadline3.console.event',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\console\\event.py',
+   'PYMODULE'),
+  ('pyreadline3.console.ironpython_console',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\console\\ironpython_console.py',
+   'PYMODULE'),
+  ('pyreadline3.error',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\error.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.api',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\api.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.constant_values',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\constant_values.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.ironpython_constants',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\ironpython_constants.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.ironpython_keysyms',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\ironpython_keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.key_press',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\key_press.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.keysyms',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\keysyms.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.make_key_press_from_key_description',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\make_key_press_from_key_description.py',
+   'PYMODULE'),
+  ('pyreadline3.keysyms.win32_constants',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\keysyms\\win32_constants.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\lineeditor\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.history',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\lineeditor\\history.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.lineobj',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\lineeditor\\lineobj.py',
+   'PYMODULE'),
+  ('pyreadline3.lineeditor.wordmatcher',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\lineeditor\\wordmatcher.py',
+   'PYMODULE'),
+  ('pyreadline3.logger',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.control',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\control.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.log',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\log.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.logger',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\logger.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.null_handler',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\null_handler.py',
+   'PYMODULE'),
+  ('pyreadline3.logger.socket_stream',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\logger\\socket_stream.py',
+   'PYMODULE'),
+  ('pyreadline3.modes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\modes\\__init__.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.basemode',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\modes\\basemode.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.emacs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\modes\\emacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.notemacs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\modes\\notemacs.py',
+   'PYMODULE'),
+  ('pyreadline3.modes.vi',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\modes\\vi.py',
+   'PYMODULE'),
+  ('pyreadline3.py3k_compat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\py3k_compat.py',
+   'PYMODULE'),
+  ('pyreadline3.rlmain',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\rlmain.py',
+   'PYMODULE'),
+  ('pyreadline3.unicode_helper',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\pyreadline3\\unicode_helper.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\queue.py',
+   'PYMODULE'),
+  ('quopri',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\quopri.py',
+   'PYMODULE'),
+  ('random',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\random.py',
+   'PYMODULE'),
+  ('readline',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\readline.py',
+   'PYMODULE'),
+  ('requests',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\_internal_utils.py',
+   'PYMODULE'),
+  ('requests._types',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\_types.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\requests\\utils.py',
+   'PYMODULE'),
+  ('rlcompleter',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\rlcompleter.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\runpy.py',
+   'PYMODULE'),
+  ('screen', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\screen.py', 'PYMODULE'),
+  ('secrets',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\secrets.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\selectors.py',
+   'PYMODULE'),
+  ('setuptools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._core_metadata',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_core_metadata.py',
+   'PYMODULE'),
+  ('setuptools._discovery',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_discovery.py',
+   'PYMODULE'),
+  ('setuptools._distutils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils._dataclass',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\_dataclass.py',
+   'PYMODULE'),
+  ('setuptools._distutils._log',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\_log.py',
+   'PYMODULE'),
+  ('setuptools._distutils._modified',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils._msvccompiler',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\_msvccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.archive_util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.ccompiler',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\ccompiler.py',
+   'PYMODULE'),
+  ('setuptools._distutils.cmd',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\cmd.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.bdist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\command\\bdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.build_ext',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\command\\build_ext.py',
+   'PYMODULE'),
+  ('setuptools._distutils.command.sdist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.numpy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compat\\numpy.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compat.py310',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.C.base',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\base.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.cygwin',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\cygwin.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.errors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.msvc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\msvc.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.unix',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\unix.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.C.zos',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\C\\zos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._modified',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_modified.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers._util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.errors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.logging',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\logging.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform', '-', 'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.detect',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\detect.py',
+   'PYMODULE'),
+  ('setuptools._distutils.compilers.platform.macos',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\compilers\\platform\\macos.py',
+   'PYMODULE'),
+  ('setuptools._distutils.core',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\core.py',
+   'PYMODULE'),
+  ('setuptools._distutils.debug',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\debug.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dir_util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\dir_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.dist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\dist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.errors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\errors.py',
+   'PYMODULE'),
+  ('setuptools._distutils.extension',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\extension.py',
+   'PYMODULE'),
+  ('setuptools._distutils.fancy_getopt',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\fancy_getopt.py',
+   'PYMODULE'),
+  ('setuptools._distutils.file_util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\file_util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.filelist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\filelist.py',
+   'PYMODULE'),
+  ('setuptools._distutils.log',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\log.py',
+   'PYMODULE'),
+  ('setuptools._distutils.spawn',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\spawn.py',
+   'PYMODULE'),
+  ('setuptools._distutils.sysconfig',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('setuptools._distutils.text_file',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\text_file.py',
+   'PYMODULE'),
+  ('setuptools._distutils.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\util.py',
+   'PYMODULE'),
+  ('setuptools._distutils.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\version.py',
+   'PYMODULE'),
+  ('setuptools._distutils.versionpredicate',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_distutils\\versionpredicate.py',
+   'PYMODULE'),
+  ('setuptools._entry_points',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_entry_points.py',
+   'PYMODULE'),
+  ('setuptools._imp',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_imp.py',
+   'PYMODULE'),
+  ('setuptools._importlib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_importlib.py',
+   'PYMODULE'),
+  ('setuptools._itertools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_itertools.py',
+   'PYMODULE'),
+  ('setuptools._normalization',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_normalization.py',
+   'PYMODULE'),
+  ('setuptools._path',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_path.py',
+   'PYMODULE'),
+  ('setuptools._reqs',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_reqs.py',
+   'PYMODULE'),
+  ('setuptools._shutil',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_shutil.py',
+   'PYMODULE'),
+  ('setuptools._static',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_static.py',
+   'PYMODULE'),
+  ('setuptools._vendor', '-', 'PYMODULE'),
+  ('setuptools._vendor.backports',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\backports\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.backports.tarfile.compat.py38',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\backports\\tarfile\\compat\\py38.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco', '-', 'PYMODULE'),
+  ('setuptools._vendor.jaraco.context',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\context\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.functools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.jaraco.text',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.more',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('setuptools._vendor.more_itertools.recipes',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._elffile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_elffile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._manylinux',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._musllinux',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._tokenizer',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\_tokenizer.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.markers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.requirements',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.specifiers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.tags',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._re',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
+   'PYMODULE'),
+  ('setuptools._vendor.tomli._types',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.macosx_libfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\macosx_libfile.py',
+   'PYMODULE'),
+  ('setuptools._vendor.wheel.wheelfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\_vendor\\wheel\\wheelfile.py',
+   'PYMODULE'),
+  ('setuptools.archive_util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\archive_util.py',
+   'PYMODULE'),
+  ('setuptools.command',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.command._requirestxt',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\_requirestxt.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_egg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\bdist_egg.py',
+   'PYMODULE'),
+  ('setuptools.command.bdist_wheel',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\bdist_wheel.py',
+   'PYMODULE'),
+  ('setuptools.command.build',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\build.py',
+   'PYMODULE'),
+  ('setuptools.command.egg_info',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\egg_info.py',
+   'PYMODULE'),
+  ('setuptools.command.sdist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\sdist.py',
+   'PYMODULE'),
+  ('setuptools.command.setopt',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\command\\setopt.py',
+   'PYMODULE'),
+  ('setuptools.compat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\compat\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.compat.py310',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\compat\\py310.py',
+   'PYMODULE'),
+  ('setuptools.compat.py311',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\compat\\py311.py',
+   'PYMODULE'),
+  ('setuptools.compat.py39',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\compat\\py39.py',
+   'PYMODULE'),
+  ('setuptools.config',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._apply_pyprojecttoml',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.error_reporting',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.extra_validations',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
+   'PYMODULE'),
+  ('setuptools.config._validate_pyproject.formats',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
+   'PYMODULE'),
+  ('setuptools.config.expand',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\expand.py',
+   'PYMODULE'),
+  ('setuptools.config.pyprojecttoml',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
+   'PYMODULE'),
+  ('setuptools.config.setupcfg',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\config\\setupcfg.py',
+   'PYMODULE'),
+  ('setuptools.depends',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\depends.py',
+   'PYMODULE'),
+  ('setuptools.discovery',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\discovery.py',
+   'PYMODULE'),
+  ('setuptools.dist',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\dist.py',
+   'PYMODULE'),
+  ('setuptools.errors',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\errors.py',
+   'PYMODULE'),
+  ('setuptools.extension',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\extension.py',
+   'PYMODULE'),
+  ('setuptools.glob',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\glob.py',
+   'PYMODULE'),
+  ('setuptools.installer',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\installer.py',
+   'PYMODULE'),
+  ('setuptools.logging',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\logging.py',
+   'PYMODULE'),
+  ('setuptools.monkey',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\monkey.py',
+   'PYMODULE'),
+  ('setuptools.msvc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\msvc.py',
+   'PYMODULE'),
+  ('setuptools.unicode_utils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\unicode_utils.py',
+   'PYMODULE'),
+  ('setuptools.version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\version.py',
+   'PYMODULE'),
+  ('setuptools.warnings',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\warnings.py',
+   'PYMODULE'),
+  ('setuptools.wheel',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\wheel.py',
+   'PYMODULE'),
+  ('setuptools.windows_support',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\setuptools\\windows_support.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\shlex.py',
+   'PYMODULE'),
+  ('shutil',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\shutil.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\signal.py',
+   'PYMODULE'),
+  ('site',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site.py',
+   'PYMODULE'),
+  ('six',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\six.py',
+   'PYMODULE'),
+  ('smtplib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\smtplib.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\socket.py',
+   'PYMODULE'),
+  ('socketserver',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\socketserver.py',
+   'PYMODULE'),
+  ('ssl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\ssl.py',
+   'PYMODULE'),
+  ('statistics',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\statistics.py',
+   'PYMODULE'),
+  ('string',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\string.py',
+   'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('subprocess',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\subprocess.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\sysconfig\\__init__.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tarfile.py',
+   'PYMODULE'),
+  ('tempfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tempfile.py',
+   'PYMODULE'),
+  ('textwrap',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\threading.py',
+   'PYMODULE'),
+  ('token',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\token.py',
+   'PYMODULE'),
+  ('tokenize',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tokenize.py',
+   'PYMODULE'),
+  ('tomllib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tomllib\\__init__.py',
+   'PYMODULE'),
+  ('tomllib._parser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tomllib\\_parser.py',
+   'PYMODULE'),
+  ('tomllib._re',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tomllib\\_re.py',
+   'PYMODULE'),
+  ('tomllib._types',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tomllib\\_types.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('tty',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\tty.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\typing.py',
+   'PYMODULE'),
+  ('ui', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\ui.py', 'PYMODULE'),
+  ('unittest',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('urllib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib3',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\emscripten\\response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\contrib\\socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\filepost.py',
+   'PYMODULE'),
+  ('urllib3.http2',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\http2\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.http2.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\http2\\connection.py',
+   'PYMODULE'),
+  ('urllib3.http2.probe',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\http2\\probe.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\site-packages\\urllib3\\util\\wait.py',
+   'PYMODULE'),
+  ('uuid',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\uuid.py',
+   'PYMODULE'),
+  ('vault', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\vault.py', 'PYMODULE'),
+  ('vision', 'C:\\Users\\zhaow\\Documents\\passwd\\app\\vision.py', 'PYMODULE'),
+  ('webbrowser',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('zipfile',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\zipfile\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\zipfile\\_path\\__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\zipfile\\_path\\glob.py',
+   'PYMODULE'),
+  ('zipimport',
+   'C:\\Users\\zhaow\\AppData\\Local\\Doubao\\User '
+   'Data\\sandbox_runtime\\bases\\9f6d27f23933fb44a3a1c728c88a5ce4\\python\\Lib\\zipimport.py',
+   'PYMODULE')])
